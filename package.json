@@ -1,0 +1,16 @@
+{
+  "name": "automation-station",
+  "version": "1.0.0",
+  "description": "SkuVault/Boutsy connectory for inventory automation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Goodnight",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bottleneck": "^2.19.5",
+    "dotenv": "^8.2.0"
+  }
+}
